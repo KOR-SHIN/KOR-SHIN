@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="https://selimdoyranli.com">KwangJin</a>.<br> I'm trying to be a full-stack engineer.<br><br>#java, #oracle</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+</p>
 
-![KwangJin's github stats](https://github-readme-stats.vercel.app/api?username=kor-shin&show_icons=true)
+------------
+<p align="center">⭐️ From <a href="https://github.com/kor-shin">@KOR-SHIN</a></p>
