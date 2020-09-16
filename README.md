@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 <p align="center">
   <br>
   <br>
+  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/programming.gif?raw=true">
   <br>
-  <samp>Hello there. I'm <a href="https://github.com/kor-shin">KwangJin</a>.<br> I'm 27, and I'm trying to be a full-stack engineer.<br><br>#java, #oracle</samp>
+  <samp>Hello there. I'm <a href="https://github.com/kor-shin">KwangJin</a>.<br> I'm 27, and I'm trying to be a full-stack engineer.
+  <br>
+  <br>
+  <br>
+  #java, #oracle</samp>
   <br>
   <br>
   <br>
