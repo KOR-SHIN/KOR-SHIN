@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/mario.gif" width="500" height="500" />
+  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/mario2.gif" width="600" height="300" />
 </p>
 
 ------------
