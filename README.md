@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/dino.gif" width="500" />
 </p>
 
 ------------
