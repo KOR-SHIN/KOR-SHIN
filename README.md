@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/amongus.gif" width="600" height="300" />
+  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/dino.gif" width="600" height="300" />
 </p>
 
 ------------
