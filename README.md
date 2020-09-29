@@ -17,16 +17,10 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://github.com/kor-shin">KwangJin</a>.<br> I'm 27, and I'm trying to be a full-stack engineer.
   <br>
   <br>
   <br>
-  #java, #oracle</samp>
-  <br>
-  <br>
-  <br>
-  <br>
-  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/dino.gif" width="500" />
+  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/mario.gif" width="500" height="500" />
 </p>
 
 ------------
