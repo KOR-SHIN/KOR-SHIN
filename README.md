@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github.com/KOR-SHIN/KOR-SHIN/blob/master/dino.gif" width="600" height="300" />
-</p>
+<h2>💈</h2>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/kor-shin">@KOR-SHIN</a></p>
+<p align="center">⭐️<a href="https://github.com/kor-shin">@KOR-SHIN</a></p>
